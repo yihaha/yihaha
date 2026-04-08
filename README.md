@@ -1,57 +1,63 @@
-# yibh (yihaha)
+# 👋 yibh (yihaha)
 
 <p align="center">
   <a href="https://github.com/yihaha"><img src="https://img.shields.io/badge/GitHub-yihaha-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
-## 关于我
+## 👨‍💻 About Me
 
-自 2014 年起活跃于 GitHub，主要使用 Java、Dart 及前端技术构建应用。常驻北京，近期贡献以代码提交为主（占比 66.7%），同时通过 issue 参与项目反馈（占比 33.3%）。技术栈覆盖移动端（Flutter）、后端（Java）与 Web 前端（HTML/CSS），倾向于独立构建完整功能模块。
+- 🧑‍💻 **Member since 2014** — over a decade of exploration across multiple stacks.
+- 📍 Based in **Beijing**.
+- 🔧 Active languages: **Java**, **Dart**, **HTML/CSS**, **Python** — with a focus on mobile and web clients.
+- 🏗️ **Dominant mode: builder** — 66.7% of contributions are commits, complemented by a thoughtful issue‑driven workflow (33.3%).
+- 📱 Maintains several client‑side projects: Flutter apps, gank.io clients, and experimental mixed‑tech apps (Kotlin, Weex, Flutter).
+- 🎯 Recent activity (last 90 days): 3 active days, 8 contributions — steady, focused building.
 
-## 技术栈
+## 🛠️ Tech Stack
 
-### 编程语言
+### Languages
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 框架与工具
+### Frameworks & Platforms
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Weex](https://img.shields.io/badge/-Weex-00B4FF?style=for-the-badge&logo=weex&logoColor=white)
 
-## GitHub 统计
+### Tools & Environment
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://readme.u14.app/api/github/stats?userId=AQSqXuhpAMxlnrx83FBzL3bPIdoW2WCI" alt="GitHub 统计" width="48%">
-  <img src="https://readme.u14.app/api/github/top-langs?userId=AQSqXuhpAMxlnrx83FBzL3bPIdoW2WCI" alt="常用语言" width="48%">
+  <img src="https://readme.u14.app/api/github/stats?userId=AQSqXuhpAMxlnrx83FBzL3bPIdoW2WCI" alt="GitHub Stats" width="48%" />
+  <img src="https://readme.u14.app/api/github/top-langs?userId=AQSqXuhpAMxlnrx83FBzL3bPIdoW2WCI" alt="Top Languages" width="48%" />
 </p>
 
-## 精选项目
+## 📌 Top Repositories
 
-- **[YueY](https://github.com/yihaha/YueY)** – [![Stars](https://img.shields.io/github/stars/yihaha/YueY?style=flat-square&color=58A6FF)](https://github.com/yihaha/YueY/stargazers)  ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)  
-  Flutter 编写的简约应用，集成图片列表、知乎日报、Flutter 动态、玩安卓动态等内容浏览。
+| Repository | Language | Stars | Description |
+|------------|----------|-------|-------------|
+| [YueY](https://github.com/yihaha/YueY) | Dart | ![Stars](https://img.shields.io/github/stars/yihaha/YueY?style=flat-square&color=58A6FF) | A minimalist Flutter app featuring image galleries, Zhihu Daily, Flutter news, and WanAndroid feeds. |
+| [YGank](https://github.com/yihaha/YGank) | Java | ![Stars](https://img.shields.io/github/stars/yihaha/YGank?style=flat-square&color=58A6FF) | Android client for gank.io content. |
+| [YJoy](https://github.com/yihaha/YJoy) | Java | ![Stars](https://img.shields.io/github/stars/yihaha/YJoy?style=flat-square&color=58A6FF) | All‑in‑one entertainment app built with Kotlin, Weex, and Flutter. |
+| [yihaha.github.io](https://github.com/yihaha/yihaha.github.io) | HTML | ![Stars](https://img.shields.io/github/stars/yihaha/yihaha.github.io?style=flat-square&color=58A6FF) | Personal GitHub Pages site. |
+| [Python_Test](https://github.com/yihaha/Python_Test) | Python | ![Stars](https://img.shields.io/github/stars/yihaha/Python_Test?style=flat-square&color=58A6FF) | Python experiments and learning sandbox. |
+| [YTest](https://github.com/yihaha/YTest) | Java | ![Stars](https://img.shields.io/github/stars/yihaha/YTest?style=flat-square&color=58A6FF) | Daily practice and prototyping workspace. |
 
-- **[YGank](https://github.com/yihaha/YGank)** – [![Stars](https://img.shields.io/github/stars/yihaha/YGank?style=flat-square&color=58A6FF)](https://github.com/yihaha/YGank/stargazers)  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
-  gank.io 内容的客户端实现。
-
-- **[YJoy](https://github.com/yihaha/YJoy)** – [![Stars](https://img.shields.io/github/stars/yihaha/YJoy?style=flat-square&color=58A6FF)](https://github.com/yihaha/YJoy/stargazers)  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
-  综合娱乐应用，涉及 Kotlin、Weex、Flutter 技术。
-
-- **[YTest](https://github.com/yihaha/YTest)** – [![Stars](https://img.shields.io/github/stars/yihaha/YTest?style=flat-square&color=58A6FF)](https://github.com/yihaha/YTest/stargazers)  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
-  日常练习与实验代码。
-
-- **[yihaha.github.io](https://github.com/yihaha/yihaha.github.io)** – [![Stars](https://img.shields.io/github/stars/yihaha/yihaha.github.io?style=flat-square&color=58A6FF)](https://github.com/yihaha/yihaha.github.io/stargazers)  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-- **[Python_Test](https://github.com/yihaha/Python_Test)** – [![Stars](https://img.shields.io/github/stars/yihaha/Python_Test?style=flat-square&color=58A6FF)](https://github.com/yihaha/Python_Test/stargazers)  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-## 近期贡献
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yihaha&theme=tokyonight" alt="连续贡献统计">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yihaha&theme=tokyonight" alt="GitHub Streak Stats" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yihaha&theme=tokyo-night" alt="GitHub Activity Graph" width="49%" />
 </p>
 
 ---
 
-<p align="center">持续构建 · 迭代中</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yihaha&style=flat-square&color=58A6FF" alt="Profile views" />
+</p>
